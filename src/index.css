@@ -1,0 +1,26 @@
+
+/* Configuración general de la página */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos del cuerpo de la página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f3f3;
+  color: #333;
+}
+
+/* Estilos de los botones */
+button {
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilos de los campos */
+input,
+select {
+  font-family: Arial, sans-serif;
+}
